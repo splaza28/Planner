@@ -15,6 +15,6 @@ This planner has been designed to allow the user to enter and save events for a 
 
 ### **Links**:
 
-* GitHub Repository- https://github.com/splaza28/Work-Day-Scheduler.git
+* GitHub Repository- https://github.com/splaza28/Planner.git
 
 * Application URL- https://github.com/splaza28/Planner.git
